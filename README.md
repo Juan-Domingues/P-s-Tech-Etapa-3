@@ -1,4 +1,4 @@
-# Tech Challenge • Fase 3
+# Tech Challenge • Fase 3: PNAD COVID-19
 
 <img width="29" height="39" alt="image" src="https://github.com/user-attachments/assets/c7c68151-ec02-4412-ac92-a413aca097c6" />  **Proposta:**
 
@@ -12,6 +12,7 @@ Em uma análise orientada por dados, esse estudo identifica e quantifica as inte
 2.	Seleção de um máximo de 20 variáveis para a análise.
 3.	Foco em um período contínuo de três meses: **setembro a novembro de 2020.**
 
+<img width="25" height="35" alt="image" src="https://github.com/user-attachments/assets/f6a95ab0-ed8d-4357-b1f5-f198503a997d" />  **A leitura completa do documento executivo pode ser feita aqui:**<BR/><BR/>
 
  <img width="25" height="35" alt="image" src="https://github.com/user-attachments/assets/291c7ccb-1da0-4e5e-a4e6-418759ad421d"/>   **Limitações do estudo:**
 É importante ressaltar que os dados da PNAD COVID-19 são baseados em entrevistas domiciliares e autorrelato, não em prontuários médicos. Dessa forma, as conclusões refletem a percepção e o conhecimento dos entrevistados e não devem ser confundidas com dados clínicos de diagnóstico confirmado.
