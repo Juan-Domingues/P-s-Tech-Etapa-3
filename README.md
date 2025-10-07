@@ -50,8 +50,8 @@ REVIEWREVIEWREVIEWREVIEWREVIEWREVIEWREVIEW
 
 A tabela SOT possui 20 variáveis, distribuídas em grupos:<BR/>
 
-• 4 variáveis de caracterização da pessoa (sexo, idade, escolaridade, situação do domicílio).<BR/>
+• 4 variáveis de caracterização da pessoa (sexo, idade, escolaridade, cor ou raça).<BR/>
 • 5 variáveis de sintomas clínicos da população (febre, tosse, dificuldade de respirar, fadiga, perda de olfato/paladar).<BR/>
-• 5 variáveis de comportamento da população durante a pandemia (procurou atendimento, internação, uso do SUS, uso de hospital privado).<BR/>
-• 3 variáveis econômicas .<BR/>
+• 5 variáveis de comportamento da população durante a pandemia (procurou atendimento, Pronto socorro SUS/UPA, Hospital do SUS, uso de hospital privado).<BR/>
+• 3 variáveis econômicas (estava trabalhando, rendimento bruto mensal efetivo, recebimento de bolsa familia).<BR/>
 • 3 variáveis de partição (ano, mês, UF).
