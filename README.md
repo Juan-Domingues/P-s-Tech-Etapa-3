@@ -40,10 +40,33 @@ Em uma análise orientada por dados, esse estudo identifica e quantifica as inte
 •	A documentação contendo recomendações foi desenvolvida em Word/ PDF.<BR/>
 •	Os códigos e processos foram disponibilizados no Git Hub.<BR/><BR/>
 
-REVIEWREVIEWREVIEWREVIEWREVIEWREVIEWREVIEW
 # De/Para (Mapeamento PNAD)
 
+**Características demográficas:**<BR/>
+• UF – Unidade da Federação<BR/>
+• Ano -	Ano de referência<BR/>
+• V1013 -  Mês de referência<BR/>
+• A002 - Idade do morador? <BR/>
+• A003 - Sexo? <BR/>
+• A004 - Cor ou raça? <BR/>
+• A005 - Escolaridade?<BR/><BR/>
 
+**Sintoma Saúde:**<BR/>
+• B0011 - Na semana passada teve febre? <BR/>
+• B00111 - Na semana passada teve perda de cheiro ou sabor?<BR/>
+• B0012 - Na semana passada teve tosse?<BR/>
+• B0014 - Na semana passada teve dificuldade para respirar?<BR/>
+• B0019 - Na semana passada teve fadiga? <BR/><BR/>
+
+**Buscas por atendimento e testagem para covid-19:**<BR/>
+• B0042	Pronto socorro do SUS / UPA<BR/>
+• B0043	Hospital do SUS<BR/>
+• B0046	Hospital privado ou ligado às forças armadas<BR/><BR/>
+
+**Trabalho e Renda:**<BR/>
+• A006 - ... estava trabalhando? (Pessoa de 14 anos ou mais)<BR/>
+• C0102 - Qual era o rendimento bruto mensal que recebia efetivamente?<BR/>
+• C001 - Na semana passada, ... estava em trabalho remoto (home office)?<BR/><BR/>
 
 
 # Diagrama de tabela
@@ -53,6 +76,6 @@ A tabela SOT possui 20 variáveis, distribuídas em grupos:<BR/>
 
 • 4 variáveis de caracterização da pessoa (sexo, idade, escolaridade, cor ou raça).<BR/>
 • 5 variáveis de sintomas clínicos da população (febre, tosse, dificuldade de respirar, fadiga, perda de olfato/paladar).<BR/>
-• 5 variáveis de comportamento da população durante a pandemia (procurou atendimento, Pronto socorro SUS/UPA, Hospital do SUS, uso de hospital privado).<BR/>
-• 3 variáveis econômicas (estava trabalhando, rendimento bruto mensal efetivo, recebimento de bolsa familia).<BR/>
+• 3 variáveis de comportamento da população durante a pandemia (procurou atendimento, Pronto socorro SUS/UPA, Hospital do SUS, uso de hospital privado).<BR/>
+• 3 variáveis econômicas (estava trabalhando, home office, rendimento bruto mensal efetivo, ).<BR/>
 • 3 variáveis de partição (ano, mês, UF).
